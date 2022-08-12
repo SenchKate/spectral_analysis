@@ -1,6 +1,6 @@
-Spectral Analysis
+Spectral Analysis \\
 
-The spectral analysis approach was applied on the following datasets: 
+The spectral analysis approach was applied on the following datasets:\\ 
 CIFAR-10  https://www.cs.toronto.edu/~kriz/cifar.html
 Fashion MNIST https://www.kaggle.com/datasets/zalando-research/fashionmnist
 SEN12MS https://paperswithcode.com/dataset/sen12ms
