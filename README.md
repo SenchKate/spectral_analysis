@@ -22,11 +22,7 @@ So2Sat LCZ42 https://paperswithcode.com/paper/so2sat-lcz42-a-benchmark-dataset-f
 
 The LRP studies how trained VGG16 process Tiny Imagenet dataset and trained ResNet50 - all other datasets.
 
-The Spectral Relevance analysis of LRP heatmaps is implemented here: 
-https://colab.research.google.com/drive/1O32UqpTSlG80nTxWWrQmnFuMktMAZ1Zn?usp=sharing
-The notebook also contrains OOD/ID, hyperparameter and sensitivity analyzes.
+The Spectral Relevance analysis of LRP heat maps is implemented here: https://colab.research.google.com/drive/1O32UqpTSlG80nTxWWrQmnFuMktMAZ1Zn?usp=sharing The notebook also contains OOD/ID, hyper-parameter and sensitivity analyses.
 
-The playground witht he example how to repeat the experiments are presented here:
-https://colab.research.google.com/drive/1b-Ls1SLt7rDifUQFAIqRLdxXdRtHO_9Z?usp=sharing
-The example is set to work with RSICD dataset
+The playground with he example how to repeat the experiments are presented here: https://colab.research.google.com/drive/1b-Ls1SLt7rDifUQFAIqRLdxXdRtHO_9Z?usp=sharing
 
