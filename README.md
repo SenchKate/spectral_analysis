@@ -28,4 +28,5 @@ The notebook also contrains OOD/ID, hyperparameter and sensitivity analyzes.
 
 The playground witht he example how to repeat the experiments are presented here:
 https://colab.research.google.com/drive/1b-Ls1SLt7rDifUQFAIqRLdxXdRtHO_9Z?usp=sharing
+The example is set to work with RSICD dataset
 
